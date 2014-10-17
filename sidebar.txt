@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psg:home|Door43 (psg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psg|d43-psg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psg/archive/master.zip|d43-psg.zip]]
+
+**Recent Changes**
+{{changes>ns = psg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psg|Ethnologue data]]
+
